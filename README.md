@@ -6,7 +6,7 @@
 Can be seen in seperate file
 
 
-###Task 2: Localize the JSGF grammar in your language
+### Task 2: Localize the JSGF grammar in your language
 
 Can be seen in seperate file
 
