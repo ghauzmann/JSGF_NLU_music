@@ -1,6 +1,4 @@
-README.md
-
-NLP challenge: JSGF development
+NLP challenge Danish: JSGF development
 
 Task 1: Extending the English grammar
 
