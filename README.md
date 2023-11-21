@@ -13,11 +13,11 @@ Can be seen in seperate file
 
 ### 2.2: Sample utterances the JSGF can produce in Danish
 
-[sæt]<unk> [lady gaga]<artist> [på]<unk>
-[kan du spille]<unk> [midt om natten]<album> [af]<unk> [kim larsen]<artist> [for mig]<unk>
-[jeg vil gerne lytte til]<unk> [øde ø]<song> 
-[spil]<unk> [klassisk]<genre> [musik]<unk> 
-	[kan du sætte]<unk> [pink floyd]<artist> [på]<unk>
+• [sæt]<unk> [lady gaga]<artist> [på]<unk>
+• [kan du spille]<unk> [midt om natten]<album> [af]<unk> [kim larsen]<artist> [for mig]<unk>
+• [jeg vil gerne lytte til]<unk> [øde ø]<song> 
+• [spil]<unk> [klassisk]<genre> [musik]<unk> 
+• [kan du sætte]<unk> [pink floyd]<artist> [på]<unk>
 
 ### 2.3: Possible issues if extensions of grammar considerably in Danish
 
