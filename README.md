@@ -1,21 +1,25 @@
-NLP challenge Danish: JSGF development
+# NLP challenge Danish: JSGF development
 
-Task 1: Extending the English grammar
 
-Can be seen in seperate file
-
-Task 2: Localize the JSGF grammar in your language
+### Task 1: Extending the English grammar
 
 Can be seen in seperate file
 
-2.2: Sample utterances the JSGF can produce in Danish
+
+###Task 2: Localize the JSGF grammar in your language
+
+Can be seen in seperate file
+
+
+### 2.2: Sample utterances the JSGF can produce in Danish
 
 [sæt]<unk> [lady gaga]<artist> [på]<unk>
 [kan du spille]<unk> [midt om natten]<album> [af]<unk> [kim larsen]<artist> [for mig]<unk>
 [jeg vil gerne lytte til]<unk> [øde ø]<song> 
 [spil]<unk> [klassisk]<genre> [musik]<unk> 
 	[kan du sætte]<unk> [pink floyd]<artist> [på]<unk>
-2.3: Possible issues if extensions of grammar considerably in Danish
+
+### 2.3: Possible issues if extensions of grammar considerably in Danish
 
 There are multiple potential issues that may arise if the grammar were to be extended considerably in Danish.
 
@@ -37,11 +41,7 @@ o	When a grammar is extended considerably, the level of complexion of the overal
 o	This issue can potentially be tackled by including standards of sustained testing of the grammar with multiple various inputs from real users as part of a continuous feedback loop. This can effectively result in the inclusion of usability research and studies where issues and bottlenecks are not only identified but also addressed and resolved in a systematic approach.  
 
 
-
-
-
-
-2.4: Complications of features of the Danish language   
+### 2.4: Complications of features of the Danish language   
 
 There are various features of the Danish language that can result in the localization or writing of the grammar being somewhat complicated, especially when also considering general speech recognition.
 
